@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.mypy_cache
+.ruff_cache
+
+# Virtual environments
+.venv
+.coverage
+.pytest_cache
+
+# Vibe
+.serena
+
+# OS
+.DS_Store
+
+# Qwen agent artifacts
+.qwen/
+
+# Qwen agent artifacts
+.qwen/
+
